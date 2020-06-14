@@ -1,0 +1,202 @@
+{
+  "title": "merhaba world App",
+  "@title": {
+    "description": "The uygulama title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "merhaba",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginWithInstagram": "INSTAGRAM İLE GİRİŞ YAP",
+  "@loginWithInstagram": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "loginHeader": "%100 GÜVENLİ",
+  "@loginHeader": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginInformation": "Tüm bilgileriniz güvende ve hiçbir zaman PAYLAŞILMAYACAK",
+  "@loginInformation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginContract": "Gizlilik Sözleşmesini Gör",
+  "@loginContract": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unExpectedErrorOccurred": "Beklenmeyen Hata Oluştu",
+  "@unExpectedErrorOccurred": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nullResultAuthentication": "Null Result Authentication",
+  "@nullResultAuthentication": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "nullResultInfo": "Null Result Info",
+  "@nullResultInfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "followers": "Takip Edenler",
+  "@followers": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "following": "Takip Edilenler",
+  "@following": {
+    "type": "text",
+    "placeholders": {}
+  },
+     "averageLikes": "Ortalama Beğeni",
+  "@averageLikes": {
+    "type": "text",
+    "placeholders": {}
+  },
+       "posts": "Gönderiler",
+  "@posts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "averageComment": "Ortalama Yorum",
+  "@averageComment": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "earnedFollowers": "Kazanılan Takipçiler",
+  "@earnedFollowers": {
+    "type": "text",
+    "placeholders": {}
+  },
+      "followersNotFollowing": "Takip Etmeyen Takipçiler",
+  "@followersNotFollowing": {
+    "type": "text",
+    "placeholders": {}
+  },
+        "fans": "Hayranlarınız",
+  "@fans": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friends": "Arkadaşlarınız",
+  "@friends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lostFollowers": "Kaybedilen Takipçiler",
+  "@lostFollowers": {
+    "type": "text",
+    "placeholders": {}
+  },
+ 
+   "audience": "İzleyiciler",
+  "@audience": {
+    "type": "text",
+    "placeholders": {}
+  },
+     "mostcommentedPost": "En Fazla Yorum Yapılan Gönderi",
+  "@mostcommentedPost": {
+    "type": "text",
+    "placeholders": {}
+  },
+  
+  "mostLikedPost": "En Fazla Beğenilen Gönderi",
+  "@mostLikedPost": {
+    "type": "text",
+    "placeholders": {}
+  },
+  
+  "lessCommentedPost": "En Az Yorum Yapılan Gönderi",
+  "@lessCommentedPost": {
+    "type": "text",
+    "placeholders": {}
+  },
+  
+  "lessLikedPost": "En Az Beğenilen     Gönderi",
+  "@lessLikedPost": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "follow": "Takip Et",
+  "@follow": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "unfollow": "Takip Etmeyi Bırak",
+  "@unfollow": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "ok": "Tamam",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "yes": "Evet",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+    "no": "Hayır",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "cancel": "Fazgeç",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "warning": "Uyarı",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "error": "Hata",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "information": "Bilgilendirme",
+  "@information": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "question": "Soru",
+  "@question": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "message": "Mesaj",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "loading": "Yükleniyor...",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+}
